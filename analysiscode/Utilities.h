@@ -89,6 +89,7 @@
 // add by shen
 #include <climits>
 #include <fstream>
+#include <stdlib.h>
 
 string toString(int i);
 string toString(double d);
